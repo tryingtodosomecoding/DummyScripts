@@ -1,4 +1,4 @@
-//new comment added
+//new comments added
 Action()
 {
 	lr_start_transaction("test2");
